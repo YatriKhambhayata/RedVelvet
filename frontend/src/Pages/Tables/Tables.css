@@ -1,0 +1,39 @@
+.table_book_main_wrap{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    flex-direction: column;
+}
+
+.table_book_wrap{
+    height: 70%;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.row1{
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+    width: 100%;
+}
+
+.row2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.demo{
+    color: #000;
+}
+
+.col{
+    cursor: pointer;
+}
